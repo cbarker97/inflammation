@@ -1,0 +1,6 @@
+# Author: Martin Callaghan
+# Date: 2020-06-15
+
+Project kickoff meeting:
+Some initial data analysis to identify how inflammation changes over time after surgery
+
