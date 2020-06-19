@@ -3,3 +3,5 @@ There is some data that would be useful for the analysis.
 We need to determine the drequency at which these measurements were taken
 
 This is an edit from Chris
+
+Added a second edit so that I can try a merge conflict
